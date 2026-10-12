@@ -1,0 +1,8 @@
+# Default behavior
+
+*.html linguist-vendored
+*.md linguist-documentation
+*.bat text eol=crlf
+src/** linguist-detectable
+*.ts linguist-detectable 
+*.png binary
